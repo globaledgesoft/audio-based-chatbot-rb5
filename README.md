@@ -180,7 +180,7 @@ source stt/bin/activate
 ```
 2. To run the application execute the following command in shell
 ```sh
-python main.py
+python3 main.py
 ```
 
 3. Once the application starts running, start asking queries to the robot. Below is an example of output from robot. 
